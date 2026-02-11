@@ -163,6 +163,9 @@ POSTGRES_PASSWORD
 ## 🧪 Testing
 ⚠️ The LoadBalancer IP may change if the service is recreated.
 
+### frotend Health Check
+http://20.116.241.112 
+
 ### Backend Health Check
  http://20.116.241.112/
 
