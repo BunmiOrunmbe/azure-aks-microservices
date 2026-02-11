@@ -45,11 +45,11 @@ This project demonstrates deployment of a containerized microservices architectu
 
 
 ## Cloud Services Used:
-    Service				                Purpose
-Azure Kubernetes Service        Container orchestration
-Azure Container Registry	    Container image storage
-Azure Disk (CSI)		        Persistent storage
-Azure Resource Group		    Resource organization
+    				                
+Azure Kubernetes Service  -  for Container orchestration
+Azure Container Registry  -  for Container image storage
+Azure Disk (CSI)   - for Persistent storage
+Azure Resource Group - for Resource organization
 
 ## Architecture Pattern
 This project follows-
