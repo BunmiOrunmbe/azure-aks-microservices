@@ -4,7 +4,9 @@
 
 Below shows all application pods running successfully in AKS.
 
-![Running Pods](kubectl-get-pods-output.png)
+![Running Pods](./kubectl-get-pods-output.png)
+![Infrastructure](./infrastructure-diagram.png)
+![Architecture](./project-architecture.png)
 
 ---
 

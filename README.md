@@ -39,8 +39,8 @@ This project demonstrates deployment of a containerized microservices architectu
 
 ---
 
-## Application Test
-![App](docs/browser-image.png)
+## Infrastructure Diagram
+![App](docs/infrastructure-diagram.png)
 
 
 

@@ -2,13 +2,14 @@
 
 The screenshot below confirms that backend and PostgreSQL pods are successfully running inside the AKS cluster.
 
+## Architecture Diagram
 ![Running Pods](./kubectl-get-pods-output.png)
 
 ---
 
-## Architecture Diagram
+## Infrastructure Diagram
 
-![Architecture](./architecture2.png)
+![Infrastructure](./infrastructure-diagram.png)
 
 ---
 
