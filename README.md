@@ -25,6 +25,25 @@ This project demonstrates deployment of a containerized microservices architectu
 . Demonstrate service-to-service communication
 . Provide publicly accessible frontend
 
+# Azure AKS Microservices Project
+
+---
+
+## Architecture Diagram
+![Architecture](docs/project-architecture.png)
+
+---
+
+## Deployment Verification
+![Pods](docs/kubectl-get-pods-output.png)
+
+---
+
+## Application Test
+![App](docs/browser-image.png)
+
+
+
 ## Cloud Services Used:
     Service				                Purpose
 Azure Kubernetes Service        Container orchestration
